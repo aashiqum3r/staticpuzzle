@@ -1,0 +1,2 @@
+# staticpuzzle
+My website.
